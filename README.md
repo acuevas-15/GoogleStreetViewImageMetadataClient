@@ -8,6 +8,7 @@ Why use this client?
 
 ## Usage
 `
+
         StreetViewImageMetadataClient client = new StreetViewImageMetadataClient();
 
         StreetViewImageMetadataRequestParameters requestParams = new StreetViewImageMetadataRequestParameters();
