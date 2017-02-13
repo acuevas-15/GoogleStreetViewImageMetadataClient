@@ -1,5 +1,5 @@
 # GoogleStreetViewImageMetadataClient
-A java client for google's street view image metadata http service.
+A java client for [google's street view image metadata http service](https://developers.google.com/maps/documentation/streetview/metadata).
 
 Why use this client?
 * free and open-source
