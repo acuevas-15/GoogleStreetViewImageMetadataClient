@@ -3,7 +3,7 @@ A java client for [google's street view image metadata http service](https://dev
 
 Why use this client?
 * free and open-source
-* easy to use - for many cases, only three classes come into play, one for request arguments, one for the http call, and one for the modelling the result)
+* easy to use - for many cases, only three classes come into play, one for request arguments, one for the http call, and one representing the result)
 * lightweight - GoogleStreetViewImageMetadataClient only has one dependency on Google's Gson library.  Otherwise only standard java libraries are used.
 
 ## Usage
